@@ -1,2 +1,6 @@
-Hello World, Its a C file
-Updated
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
